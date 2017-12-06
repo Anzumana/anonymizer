@@ -1,6 +1,5 @@
 const csvFilePath='./efaqerylogs-beispiel.csv'
 const csv=require('csvtojson')
-const json2csv= require('json2csv');
 const fs = require('fs');
 csv({
 	noheader:true,
