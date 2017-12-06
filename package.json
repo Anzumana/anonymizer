@@ -1,0 +1,22 @@
+{
+  "name": "anonymize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anzumana/anonymizer.git"
+  },
+  "author": "Anzumana Taal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anzumana/anonymizer/issues"
+  },
+  "homepage": "https://github.com/Anzumana/anonymizer#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  }
+}
